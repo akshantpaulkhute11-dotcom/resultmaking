@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2563eb</color> <!-- Royal Blue -->
+    <color name="colorPrimaryDark">#1e40af</color>
+    <color name="colorAccent">#f59e0b</color> <!-- Amber -->
+    <color name="colorBackground">#f8fafc</color>
+    <color name="colorBackground">#f8fafc</color>
+    <color name="colorSurface">#ffffff</color>
+
+    <color name="colorTextPrimary">#1e293b</color>
+    <color name="colorTextSecondary">#64748b</color>
+    <color name="colorTextHint">#94a3b8</color>
+
+    <color name="colorDivider">#e2e8f0</color>
+    <color name="colorSuccess">#22c55e</color>
+    <color name="colorError">#ef4444</color>
+
+    <!-- Gradients -->
+    <color name="gradStart">#6366f1</color>
+    <color name="gradCenter">#a855f7</color>
+    <color name="gradEnd">#ec4899</color>
+</resources>

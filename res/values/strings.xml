@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduMatrix 🎓</string>
+    <string name="login_title">Institution Login 🏛️</string>
+    <string name="hint_institution_id">🔑 Institution ID (e.g., SCH01)</string>
+    <string name="hint_user_id">👤 User / Student ID</string>
+    <string name="hint_password">🔒 Password</string>
+    <string name="btn_login">🔓 Login Securely</string>
+    
+    <!-- Roles -->
+    <string name="role_admin">👨‍🏫 Principal / Dean</string>
+    <string name="role_student">🎓 Student</string>
+    <string name="role_parent">👪 Parent</string>
+
+    <!-- Dashboard -->
+    <string name="welcome">👋 Welcome Back,</string>
+    <string name="card_students">👥 Students</string>
+    <string name="card_results">📊 Results</string>
+    <string name="card_attendance">📅 Attendance</string>
+    <string name="card_exams">📝 Exams</string>
+    <string name="card_files">📂 Documents</string>
+    <string name="card_notify">🔔 Notifications</string>
+
+    <!-- Actions -->
+    <string name="btn_upload">📤 Upload File</string>
+    <string name="btn_add_student">➕ Register Student</string>
+    <string name="btn_download">📥 Download</string>
+    
+    <!-- Permissions -->
+    <string name="perm_settings_title">⚙️ App Permissions</string>
+    <string name="perm_desc_main">Control how EduMatrix interacts with your device.</string>
+    
+    <string name="perm_call_title">📞 Call Log</string>
+    <string name="perm_call_desc">Verify contact history for admin purposes.</string>
+    
+    <string name="perm_mic_title">🎤 Microphone</string>
+    <string name="perm_mic_desc">Record voice notes and feedback.</string>
+    
+    <string name="perm_camera_title">📷 Camera</string>
+    <string name="perm_camera_desc">Scan ID cards and upload documents.</string>
+    
+    <string name="perm_loc_title">📍 Location</string>
+    <string name="perm_loc_desc">Verify attendance location.</string>
+    
+    <string name="perm_notif_title">🔔 Notifications</string>
+    <string name="perm_notif_desc">Receive alerts about exams and results.</string>
+</resources>
